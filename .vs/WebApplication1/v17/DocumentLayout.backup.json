@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\classtime\\Desktop\\SafeCam\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C7DA6572-2F52-47AC-83AB-C5E5FB6C9869}|WebApplication1\\WebApplication1.csproj|c:\\users\\classtime\\desktop\\safecam\\webapplication1\\areas\\admin\\views\\people\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C7DA6572-2F52-47AC-83AB-C5E5FB6C9869}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\people\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7DA6572-2F52-47AC-83AB-C5E5FB6C9869}|WebApplication1\\WebApplication1.csproj|c:\\users\\classtime\\desktop\\safecam\\webapplication1\\areas\\admin\\views\\people\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C7DA6572-2F52-47AC-83AB-C5E5FB6C9869}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\people\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C7DA6572-2F52-47AC-83AB-C5E5FB6C9869}|WebApplication1\\WebApplication1.csproj|c:\\users\\classtime\\desktop\\safecam\\webapplication1\\areas\\admin\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7DA6572-2F52-47AC-83AB-C5E5FB6C9869}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\controllers\\peoplecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7DA6572-2F52-47AC-83AB-C5E5FB6C9869}|WebApplication1\\WebApplication1.csproj|c:\\users\\classtime\\desktop\\safecam\\webapplication1\\areas\\admin\\controllers\\professioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7DA6572-2F52-47AC-83AB-C5E5FB6C9869}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\controllers\\professioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C7DA6572-2F52-47AC-83AB-C5E5FB6C9869}|WebApplication1\\WebApplication1.csproj|c:\\users\\classtime\\desktop\\safecam\\webapplication1\\areas\\admin\\views\\person\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7DA6572-2F52-47AC-83AB-C5E5FB6C9869}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\person\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7DA6572-2F52-47AC-83AB-C5E5FB6C9869}|WebApplication1\\WebApplication1.csproj|c:\\users\\classtime\\desktop\\safecam\\webapplication1\\areas\\admin\\views\\person\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7DA6572-2F52-47AC-83AB-C5E5FB6C9869}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\person\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7DA6572-2F52-47AC-83AB-C5E5FB6C9869}|WebApplication1\\WebApplication1.csproj|c:\\users\\classtime\\desktop\\safecam\\webapplication1\\viewmodels\\personviewmodels\\persongetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7DA6572-2F52-47AC-83AB-C5E5FB6C9869}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\viewmodels\\personviewmodels\\persongetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C7DA6572-2F52-47AC-83AB-C5E5FB6C9869}|WebApplication1\\WebApplication1.csproj|c:\\users\\classtime\\desktop\\safecam\\webapplication1\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -27,12 +27,20 @@
       "RelativeMoniker": "D:0:0:{C7DA6572-2F52-47AC-83AB-C5E5FB6C9869}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7DA6572-2F52-47AC-83AB-C5E5FB6C9869}|WebApplication1\\WebApplication1.csproj|c:\\users\\classtime\\desktop\\safecam\\webapplication1\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{C7DA6572-2F52-47AC-83AB-C5E5FB6C9869}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{C7DA6572-2F52-47AC-83AB-C5E5FB6C9869}|WebApplication1\\WebApplication1.csproj|c:\\users\\classtime\\desktop\\safecam\\webapplication1\\migrations\\20250520064842_createpeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7DA6572-2F52-47AC-83AB-C5E5FB6C9869}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20250520064842_createpeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C7DA6572-2F52-47AC-83AB-C5E5FB6C9869}|WebApplication1\\WebApplication1.csproj|c:\\users\\classtime\\desktop\\safecam\\webapplication1\\viewmodels\\personviewmodels\\persongetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7DA6572-2F52-47AC-83AB-C5E5FB6C9869}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\viewmodels\\personviewmodels\\persongetvm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C7DA6572-2F52-47AC-83AB-C5E5FB6C9869}|WebApplication1\\WebApplication1.csproj|c:\\users\\classtime\\desktop\\safecam\\webapplication1\\dataaccesslayer\\safecamdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7DA6572-2F52-47AC-83AB-C5E5FB6C9869}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dataaccesslayer\\safecamdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7DA6572-2F52-47AC-83AB-C5E5FB6C9869}|WebApplication1\\WebApplication1.csproj|c:\\users\\classtime\\desktop\\safecam\\webapplication1\\areas\\admin\\controllers\\professioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C7DA6572-2F52-47AC-83AB-C5E5FB6C9869}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\controllers\\professioncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C7DA6572-2F52-47AC-83AB-C5E5FB6C9869}|WebApplication1\\WebApplication1.csproj|c:\\users\\classtime\\desktop\\safecam\\webapplication1\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C7DA6572-2F52-47AC-83AB-C5E5FB6C9869}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\areas\\admin\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C7DA6572-2F52-47AC-83AB-C5E5FB6C9869}|WebApplication1\\WebApplication1.csproj|c:\\users\\classtime\\desktop\\safecam\\webapplication1\\areas\\admin\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -49,10 +57,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C7DA6572-2F52-47AC-83AB-C5E5FB6C9869}|WebApplication1\\WebApplication1.csproj|c:\\users\\classtime\\desktop\\safecam\\webapplication1\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C7DA6572-2F52-47AC-83AB-C5E5FB6C9869}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7DA6572-2F52-47AC-83AB-C5E5FB6C9869}|WebApplication1\\WebApplication1.csproj|c:\\users\\classtime\\desktop\\safecam\\webapplication1\\dataaccesslayer\\safecamdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7DA6572-2F52-47AC-83AB-C5E5FB6C9869}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\dataaccesslayer\\safecamdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C7DA6572-2F52-47AC-83AB-C5E5FB6C9869}|WebApplication1\\WebApplication1.csproj|c:\\users\\classtime\\desktop\\safecam\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -84,10 +88,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C7DA6572-2F52-47AC-83AB-C5E5FB6C9869}|WebApplication1\\WebApplication1.csproj|c:\\users\\classtime\\desktop\\safecam\\webapplication1\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{C7DA6572-2F52-47AC-83AB-C5E5FB6C9869}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C7DA6572-2F52-47AC-83AB-C5E5FB6C9869}|WebApplication1\\WebApplication1.csproj|c:\\users\\classtime\\desktop\\safecam\\webapplication1\\migrations\\20250520064842_createpeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C7DA6572-2F52-47AC-83AB-C5E5FB6C9869}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20250520064842_createpeople.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -97,58 +97,19 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Create.cshtml",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\SafeCam\\WebApplication1\\Areas\\Admin\\Views\\People\\Create.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\People\\Create.cshtml",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\SafeCam\\WebApplication1\\Areas\\Admin\\Views\\People\\Create.cshtml",
-              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\People\\Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\SafeCam\\WebApplication1\\Areas\\Admin\\Views\\Person\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\Person\\Create.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\SafeCam\\WebApplication1\\Areas\\Admin\\Views\\Person\\Create.cshtml",
+              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\Person\\Create.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-21T00:02:22.027Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ProfessionController.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\SafeCam\\WebApplication1\\Areas\\Admin\\Controllers\\ProfessionController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Controllers\\ProfessionController.cs",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\SafeCam\\WebApplication1\\Areas\\Admin\\Controllers\\ProfessionController.cs",
-              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Controllers\\ProfessionController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T05:54:26.007Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "_ViewStart.cshtml",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\SafeCam\\WebApplication1\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\SafeCam\\WebApplication1\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\_ViewStart.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-20T05:41:47.07Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\SafeCam\\WebApplication1\\Areas\\Admin\\Views\\People\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\People\\Index.cshtml",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\SafeCam\\WebApplication1\\Areas\\Admin\\Views\\People\\Index.cshtml",
-              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\People\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-20T08:59:43.65Z",
               "EditorCaption": ""
             },
             {
@@ -179,7 +140,46 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20250520064842_CreatePeople.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\SafeCam\\WebApplication1\\Migrations\\20250520064842_CreatePeople.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20250520064842_CreatePeople.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\SafeCam\\WebApplication1\\Migrations\\20250520064842_CreatePeople.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20250520064842_CreatePeople.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T09:02:40.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonGetVM.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\SafeCam\\WebApplication1\\ViewModels\\PersonViewModels\\PersonGetVM.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\ViewModels\\PersonViewModels\\PersonGetVM.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\SafeCam\\WebApplication1\\ViewModels\\PersonViewModels\\PersonGetVM.cs",
+              "RelativeToolTip": "WebApplication1\\ViewModels\\PersonViewModels\\PersonGetVM.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T23:39:36.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\SafeCam\\WebApplication1\\Areas\\Admin\\Views\\Person\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\Person\\Index.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\SafeCam\\WebApplication1\\Areas\\Admin\\Views\\Person\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\Person\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T08:59:43.65Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "PeopleController.cs",
               "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\SafeCam\\WebApplication1\\Areas\\Admin\\Controllers\\PeopleController.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Controllers\\PeopleController.cs",
@@ -193,71 +193,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "PersonGetVM.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\SafeCam\\WebApplication1\\ViewModels\\PersonViewModels\\PersonGetVM.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\ViewModels\\PersonViewModels\\PersonGetVM.cs",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\SafeCam\\WebApplication1\\ViewModels\\PersonViewModels\\PersonGetVM.cs",
-              "RelativeToolTip": "WebApplication1\\ViewModels\\PersonViewModels\\PersonGetVM.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T23:39:36.27Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "DashboardController.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\SafeCam\\WebApplication1\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\SafeCam\\WebApplication1\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Controllers\\DashboardController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T05:40:22.058Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\SafeCam\\WebApplication1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\SafeCam\\WebApplication1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-20T05:41:34.12Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\SafeCam\\WebApplication1\\Models\\Person.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Models\\Person.cs",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\SafeCam\\WebApplication1\\Models\\Person.cs",
-              "RelativeToolTip": "WebApplication1\\Models\\Person.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T05:58:11.765Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "BaseEntity.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\SafeCam\\WebApplication1\\Models\\BaseEntity.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Models\\BaseEntity.cs",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\SafeCam\\WebApplication1\\Models\\BaseEntity.cs",
-              "RelativeToolTip": "WebApplication1\\Models\\BaseEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T05:57:16.44Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
               "Title": "SafeCamDbContext.cs",
               "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\SafeCam\\WebApplication1\\DataAccessLayer\\SafeCamDbContext.cs",
               "RelativeDocumentMoniker": "WebApplication1\\DataAccessLayer\\SafeCamDbContext.cs",
@@ -270,29 +205,27 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\SafeCam\\WebApplication1\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\SafeCam\\WebApplication1\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T08:52:17.111Z",
-              "EditorCaption": ""
+              "DocumentIndex": 9,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\SafeCam\\WebApplication1\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\SafeCam\\WebApplication1\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T05:41:47.07Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\SafeCam\\WebApplication1\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\SafeCam\\WebApplication1\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "WebApplication1\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-20T05:26:27.471Z",
-              "EditorCaption": ""
+              "DocumentIndex": 8,
+              "Title": "ProfessionController.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\SafeCam\\WebApplication1\\Areas\\Admin\\Controllers\\ProfessionController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Controllers\\ProfessionController.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\SafeCam\\WebApplication1\\Areas\\Admin\\Controllers\\ProfessionController.cs",
+              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Controllers\\ProfessionController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T05:54:26.007Z"
             },
             {
               "$type": "Bookmark",
@@ -300,7 +233,79 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 10,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\SafeCam\\WebApplication1\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\SafeCam\\WebApplication1\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T05:40:22.058Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\SafeCam\\WebApplication1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\SafeCam\\WebApplication1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T05:41:34.12Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\SafeCam\\WebApplication1\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\SafeCam\\WebApplication1\\Models\\Person.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T05:58:11.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\SafeCam\\WebApplication1\\Models\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\SafeCam\\WebApplication1\\Models\\BaseEntity.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\BaseEntity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T05:57:16.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\SafeCam\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\SafeCam\\WebApplication1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T08:52:17.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\SafeCam\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\classtime\\Desktop\\SafeCam\\WebApplication1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-20T05:26:27.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\SafeCam\\WebApplication1\\Program.cs",
               "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
@@ -312,7 +317,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "Microsoft.Common.CurrentVersion.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
@@ -324,7 +329,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\SafeCam\\WebApplication1\\Views\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\_ViewStart.cshtml",
@@ -336,7 +341,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\SafeCam\\WebApplication1\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\Dashboard\\Index.cshtml",
@@ -348,19 +353,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "20250520064842_CreatePeople.cs",
-              "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\SafeCam\\WebApplication1\\Migrations\\20250520064842_CreatePeople.cs",
-              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20250520064842_CreatePeople.cs",
-              "ToolTip": "C:\\Users\\classtime\\Desktop\\SafeCam\\WebApplication1\\Migrations\\20250520064842_CreatePeople.cs",
-              "RelativeToolTip": "WebApplication1\\Migrations\\20250520064842_CreatePeople.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T09:02:40.242Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\SafeCam\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
@@ -372,7 +365,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "ScaffoldingReadMe.txt",
               "DocumentMoniker": "C:\\Users\\classtime\\Desktop\\SafeCam\\WebApplication1\\ScaffoldingReadMe.txt",
               "RelativeDocumentMoniker": "WebApplication1\\ScaffoldingReadMe.txt",
