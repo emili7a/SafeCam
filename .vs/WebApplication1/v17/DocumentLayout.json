@@ -97,8 +97,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -107,7 +111,7 @@
               "RelativeDocumentMoniker": "WebApplication1\\Areas\\Admin\\Views\\People\\Create.cshtml",
               "ToolTip": "C:\\Users\\classtime\\Desktop\\SafeCam\\WebApplication1\\Areas\\Admin\\Views\\People\\Create.cshtml",
               "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\People\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2025-05-21T00:02:22.027Z",
               "EditorCaption": ""
@@ -122,8 +126,7 @@
               "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Controllers\\ProfessionController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T05:54:26.007Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T05:54:26.007Z"
             },
             {
               "$type": "Document",
@@ -135,8 +138,7 @@
               "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\_ViewStart.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-20T05:41:47.07Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T05:41:47.07Z"
             },
             {
               "$type": "Document",
@@ -148,8 +150,7 @@
               "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\People\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-20T08:59:43.65Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T08:59:43.65Z"
             },
             {
               "$type": "Document",
@@ -161,8 +162,7 @@
               "RelativeToolTip": "WebApplication1\\appsettings.json",
               "ViewState": "AgIAAAIAAAAAAAAAAAAowAgAAABxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-20T06:04:30.583Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T06:04:30.583Z"
             },
             {
               "$type": "Document",
@@ -174,8 +174,7 @@
               "RelativeToolTip": "WebApplication1\\appsettings.Development.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-20T06:06:02.669Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T06:06:02.669Z"
             },
             {
               "$type": "Document",
@@ -187,8 +186,7 @@
               "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Controllers\\PeopleController.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAABEAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T05:53:03.01Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T05:53:03.01Z"
             },
             {
               "$type": "Document",
@@ -200,8 +198,7 @@
               "RelativeToolTip": "WebApplication1\\ViewModels\\PersonViewModels\\PersonGetVM.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T23:39:36.27Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T23:39:36.27Z"
             },
             {
               "$type": "Document",
@@ -213,8 +210,7 @@
               "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Controllers\\DashboardController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T05:40:22.058Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T05:40:22.058Z"
             },
             {
               "$type": "Document",
@@ -226,8 +222,7 @@
               "RelativeToolTip": "WebApplication1\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-20T05:41:34.12Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T05:41:34.12Z"
             },
             {
               "$type": "Document",
@@ -239,8 +234,7 @@
               "RelativeToolTip": "WebApplication1\\Models\\Person.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAHAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T05:58:11.765Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T05:58:11.765Z"
             },
             {
               "$type": "Document",
@@ -252,8 +246,7 @@
               "RelativeToolTip": "WebApplication1\\Models\\BaseEntity.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T05:57:16.44Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T05:57:16.44Z"
             },
             {
               "$type": "Document",
@@ -265,8 +258,7 @@
               "RelativeToolTip": "WebApplication1\\DataAccessLayer\\SafeCamDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T05:51:52.98Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T05:51:52.98Z"
             },
             {
               "$type": "Document",
@@ -278,8 +270,7 @@
               "RelativeToolTip": "WebApplication1\\Controllers\\HomeController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-20T08:52:17.111Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-20T08:52:17.111Z"
             },
             {
               "$type": "Document",
@@ -291,12 +282,7 @@
               "RelativeToolTip": "WebApplication1\\Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAGIAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-20T05:26:27.471Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "WhenOpened": "2025-05-20T05:26:27.471Z"
             },
             {
               "$type": "Document",
